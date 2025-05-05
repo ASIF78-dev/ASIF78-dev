@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Fullstack Development
 - 💞️ I’m looking to collaborate on Frontent and Backend development
 - 📫 How to reach me ...asifalam6793@gmail.com
-- 😄 Pronouns: He
+
   
 
 <!---
