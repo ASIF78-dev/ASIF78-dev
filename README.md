@@ -4,8 +4,12 @@
 - 💞️ I’m looking to collaborate on Frontent and Backend development
 - 📫 How to reach me ...asifalam6793@gmail.com
 
-Tech Stack 💻
-JavaScript 
+## Skills
+- Programming: Python, Java, C++
+- Web Development: HTML, CSS, JavaScript, React
+- Tools: Git, Docker, VS Code
+
+
 
   
 
