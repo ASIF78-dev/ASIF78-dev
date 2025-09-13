@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on Frontent and Backend development
 - 📫 How to reach me ...asifalam6793@gmail.com
 
+Tech Stack 💻
+JavaScript 
+
   
 
 <!---
