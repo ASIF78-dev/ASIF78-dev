@@ -5,7 +5,7 @@
 - 📫 How to reach me ...asifalam6793@gmail.com
 
 ## Skills
-- Programming: Python, Java, C++
+- Programming: c,C++
 - Web Development: HTML, CSS, JavaScript, React
 - Tools: Git, Docker, VS Code
 
